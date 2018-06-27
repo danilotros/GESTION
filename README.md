@@ -119,10 +119,11 @@ Estimaciones
 
 Cronograma
 -----------
-
+![](https://github.com/danilotros/GESTION/blob/master/Recortes/cronograma.jpg)
 
 Rbs
 --------------
+![](https://github.com/danilotros/GESTION/blob/master/Recortes/RBS_copia.png)
 Tabla de Riesgos
 --------------
 ![](https://github.com/danilotros/GESTION/blob/master/Recortes/tablariesgos.JPG)
