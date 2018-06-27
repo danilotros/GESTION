@@ -1,5 +1,5 @@
 
-GESTOR DE TIENDAS 
+STORE DEPOT 
 =================
 
 
