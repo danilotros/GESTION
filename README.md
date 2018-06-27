@@ -91,5 +91,47 @@ Tareas
 
 20) Generación de módulo de capacitación virtual (manual y video).
 
+Alcance
+-------------
+
+El alcance de este proyecto de Software se basa en los siguientes puntos:
+
+
+1) **Productos y servicios ofrecidos:** La aplicación está pensada para ofrecer a los usuarios una manera fácil y rápida de administrar su negocio de ventas, por lo que se ofrecen los servicios de manejo del inventario, control de ventas y gestión proveedores y los pedidos a estos por parte de la tienda.
+
+
+2) **Áreas de negocio aplicables:** Se busca que el proyecto pueda utilizarse principalmente en el ámbito de la organización de la información manejada por el negocio del cliente, permitiéndole a este consultar o alterar información de su empresa según se requiera sin ningún tipo de inconveniente. Debido a que toda tienda tiene esta necesidad sin depender en gran medida de los productos que venda, la aplicación puede aplicarse a cualquier negocio comerciante de bienes.
+
+
+3) **Población:** Teniendo en cuenta el fin del proyecto y el producto a realizar, se identifica como tienda a cualquier establecimiento que venda productos de consumo, de esta manera se determina que el producto va dirigido al personal calificado en gestión de ventas, control de inventario y supervisión de pedidos  (administrador, gerente de ventas, vendedor) que conforman a un determinado establecimiento(tienda).
+
+Wbs
+---------------
+![](https://github.com/danilotros/GESTION/blob/master/Diagramas/wbs.png)
+
+Organigrama
+--------------
+![](https://github.com/danilotros/GESTION/blob/master/Diagramas/organigrama.jpg)
+
+Estimaciones
+--------------
+![](https://github.com/danilotros/GESTION/blob/master/Recortes/estiamacionesiniciales.JPG)
+
+Cronograma
+-----------
+
+
+Rbs
+--------------
+Tabla de Riesgos
+--------------
+![](https://github.com/danilotros/GESTION/blob/master/Recortes/tablariesgos.JPG)
+Diagrama de Flujo
+--------------
+
+![](https://github.com/danilotros/GESTION/blob/master/Diagramas/DiagramadeFlujo.jpg)
+
+
+
 
 
