@@ -141,6 +141,10 @@ Diagrama de Flujo
 
 ![](https://github.com/danilotros/GESTION/blob/master/Diagramas/DiagramadeFlujo.jpg)
 
+Diagrama VPMN
+-----
+![](https://github.com/danilotros/GESTION/blob/master/Diagramas/Modelo%20DevOps.png)
+
 
 
 
